@@ -1,0 +1,31 @@
+_repo: The-Identification-of-the-Writer-of-the-Anonymous-Letter-to-Lord-Monteagle-in-1605_29777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Monteagle, William Parker, Baron
+    birthdate: 1574
+    deathdate: 1622
+    gutenberg_agent_id: '34180'
+    url: http://www.gutenberg.org/2009/agents/34180
+  - agent_name: Morgan, George Blacker
+    gutenberg_agent_id: '34181'
+    url: http://www.gutenberg.org/2009/agents/34181
+description: ''
+gutenberg_issued: '2009-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Monteagle, William Parker, Baron, 1574 or 1575-1622'
+- !lcsh 'Gunpowder Plot, 1605'
+title: The Identification of the Writer of the Anonymous Letter to Lord Monteagle
+  in 1605
+url: http://www.gutenberg.org/ebooks/29777
